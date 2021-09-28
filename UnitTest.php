@@ -1,5 +1,5 @@
 <?php
-		require_once '../Revert.php';
+		require_once '../reversText.php';
 		
 		class Test extends Revert
 		{
