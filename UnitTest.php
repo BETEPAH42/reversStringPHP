@@ -3,7 +3,6 @@
 		
 		class Test extends Revert
 		{
-
 				public function test()
 				{
 					$test_str = "hello";
@@ -24,16 +23,10 @@
 							} else
 							{
 								$flag = false;
-							}
-
-							if ($flag === false)
-							{
 								return $flag;
 							}
 						}
-
 					}
 					return $flag;
 				} 
-
 		}
